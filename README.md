@@ -4,7 +4,7 @@ I used IDA to parse the algorithm from keygen.exe(sha256:02572d113818e977e2f581c
 and I converted all parts of the keygen into python(include LCG rng in delphi)  
 so the result given by the keygen is completely equals to my python version.
 
-Here's some result:  
+Here are some result:  
 Index Serial Key  
 1: 6AKD-PD29Q9-RDF?JQ-X65Z QX8-EEC  
 2: 6AKD-PD29Q9-RDF?JQ-HQNZ D?X-BTC  
